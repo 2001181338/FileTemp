@@ -1,0 +1,3 @@
+- Xét giờ khởi hành của: TuyenCha, TuyenCon
+- LoaiVe: VeNgoi, VeNam
+- Lưu thông tin k/h khi đặt vé

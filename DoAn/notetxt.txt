@@ -1,0 +1,8 @@
+1 Tuyến, có thể có nhiều tuyến con
+VD: Tuyến (SG - HN). Chuyến mấy giờ
+chuyến, tàu nào, vé -> khách hàng
+
+Chuyến (Ga đến, ga đi)
+Khảo hát hiện trạng
+Tàu lửa
+Xem thông tin vé đặt

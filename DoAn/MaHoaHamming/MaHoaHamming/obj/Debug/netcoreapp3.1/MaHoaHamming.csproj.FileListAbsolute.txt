@@ -1,0 +1,17 @@
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\bin\Debug\netcoreapp3.1\MaHoaHamming.exe
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\bin\Debug\netcoreapp3.1\MaHoaHamming.deps.json
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\bin\Debug\netcoreapp3.1\MaHoaHamming.runtimeconfig.json
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\bin\Debug\netcoreapp3.1\MaHoaHamming.runtimeconfig.dev.json
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\bin\Debug\netcoreapp3.1\MaHoaHamming.dll
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\bin\Debug\netcoreapp3.1\MaHoaHamming.pdb
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\obj\Debug\netcoreapp3.1\MaHoaHamming.csproj.AssemblyReference.cache
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\obj\Debug\netcoreapp3.1\MaHoaHamming.Form1.resources
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\obj\Debug\netcoreapp3.1\MaHoaHamming.csproj.GenerateResource.cache
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\obj\Debug\netcoreapp3.1\MaHoaHamming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\obj\Debug\netcoreapp3.1\MaHoaHamming.AssemblyInfoInputs.cache
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\obj\Debug\netcoreapp3.1\MaHoaHamming.AssemblyInfo.cs
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\obj\Debug\netcoreapp3.1\MaHoaHamming.csproj.CoreCompileInputs.cache
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\obj\Debug\netcoreapp3.1\MaHoaHamming.dll
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\obj\Debug\netcoreapp3.1\MaHoaHamming.pdb
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\obj\Debug\netcoreapp3.1\MaHoaHamming.genruntimeconfig.cache
+C:\Users\Thin\Desktop\DoAn\MaHoaHamming\MaHoaHamming\obj\Debug\netcoreapp3.1\MaHoaHamming.Properties.Resources.resources

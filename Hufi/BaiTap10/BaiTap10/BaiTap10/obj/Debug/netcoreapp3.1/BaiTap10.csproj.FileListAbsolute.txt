@@ -1,0 +1,13 @@
+C:\Users\Thin\Desktop\Hufi\BaiTap10\BaiTap10\BaiTap10\obj\Debug\netcoreapp3.1\BaiTap10.csproj.AssemblyReference.cache
+C:\Users\Thin\Desktop\Hufi\BaiTap10\BaiTap10\BaiTap10\obj\Debug\netcoreapp3.1\BaiTap10.AssemblyInfoInputs.cache
+C:\Users\Thin\Desktop\Hufi\BaiTap10\BaiTap10\BaiTap10\obj\Debug\netcoreapp3.1\BaiTap10.AssemblyInfo.cs
+C:\Users\Thin\Desktop\Hufi\BaiTap10\BaiTap10\BaiTap10\obj\Debug\netcoreapp3.1\BaiTap10.csproj.CoreCompileInputs.cache
+C:\Users\Thin\Desktop\Hufi\BaiTap10\BaiTap10\BaiTap10\bin\Debug\netcoreapp3.1\BaiTap10.exe
+C:\Users\Thin\Desktop\Hufi\BaiTap10\BaiTap10\BaiTap10\bin\Debug\netcoreapp3.1\BaiTap10.deps.json
+C:\Users\Thin\Desktop\Hufi\BaiTap10\BaiTap10\BaiTap10\bin\Debug\netcoreapp3.1\BaiTap10.runtimeconfig.json
+C:\Users\Thin\Desktop\Hufi\BaiTap10\BaiTap10\BaiTap10\bin\Debug\netcoreapp3.1\BaiTap10.runtimeconfig.dev.json
+C:\Users\Thin\Desktop\Hufi\BaiTap10\BaiTap10\BaiTap10\bin\Debug\netcoreapp3.1\BaiTap10.dll
+C:\Users\Thin\Desktop\Hufi\BaiTap10\BaiTap10\BaiTap10\bin\Debug\netcoreapp3.1\BaiTap10.pdb
+C:\Users\Thin\Desktop\Hufi\BaiTap10\BaiTap10\BaiTap10\obj\Debug\netcoreapp3.1\BaiTap10.dll
+C:\Users\Thin\Desktop\Hufi\BaiTap10\BaiTap10\BaiTap10\obj\Debug\netcoreapp3.1\BaiTap10.pdb
+C:\Users\Thin\Desktop\Hufi\BaiTap10\BaiTap10\BaiTap10\obj\Debug\netcoreapp3.1\BaiTap10.genruntimeconfig.cache
